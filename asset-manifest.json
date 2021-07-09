@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/serendia-status/static/css/main.b427710c.chunk.css",
+    "main.js": "/serendia-status/static/js/main.d3e7c4ee.chunk.js",
+    "main.js.map": "/serendia-status/static/js/main.d3e7c4ee.chunk.js.map",
+    "runtime-main.js": "/serendia-status/static/js/runtime-main.98ed2461.js",
+    "runtime-main.js.map": "/serendia-status/static/js/runtime-main.98ed2461.js.map",
+    "static/js/2.e2a633d6.chunk.js": "/serendia-status/static/js/2.e2a633d6.chunk.js",
+    "static/js/2.e2a633d6.chunk.js.map": "/serendia-status/static/js/2.e2a633d6.chunk.js.map",
+    "index.html": "/serendia-status/index.html",
+    "precache-manifest.50d949bcb119b1a15813e2939f2e90c1.js": "/serendia-status/precache-manifest.50d949bcb119b1a15813e2939f2e90c1.js",
+    "service-worker.js": "/serendia-status/service-worker.js",
+    "static/css/main.b427710c.chunk.css.map": "/serendia-status/static/css/main.b427710c.chunk.css.map",
+    "static/js/2.e2a633d6.chunk.js.LICENSE.txt": "/serendia-status/static/js/2.e2a633d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98ed2461.js",
+    "static/js/2.e2a633d6.chunk.js",
+    "static/css/main.b427710c.chunk.css",
+    "static/js/main.d3e7c4ee.chunk.js"
+  ]
+}
